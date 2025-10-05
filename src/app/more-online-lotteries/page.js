@@ -24,7 +24,7 @@ function MoreOnlineLotteriesContent() {
     {
       name: "Mega Millions",
       image: "/images/sidebar/lotto-logos/mega-millions.png",
-      jackpot: "$109,000,000",
+      jackpot: "€109,000,000",
       nextDraw: "Nächste Ziehung am Dienstag!",
       playLink: "/en/play/mega-millions",
       hasPlayButton: true
@@ -32,7 +32,7 @@ function MoreOnlineLotteriesContent() {
     {
       name: "EuroMillions",
       image: "/images/sidebar/lotto-logos/euromillions.png",
-      jackpot: "£79,000,000",
+      jackpot: "€79,000,000",
       nextDraw: "Nächste Ziehung am Dienstag!",
       playLink: "/en/play/euromillions",
       hasPlayButton: true
@@ -40,7 +40,7 @@ function MoreOnlineLotteriesContent() {
     {
       name: "Powerball",
       image: "/images/sidebar/lotto-logos/powerball.png",
-      jackpot: "$102,000,000",
+      jackpot: "€102,000,000",
       nextDraw: "Nächste Ziehung am Samstag!",
       playLink: "/en/play/powerball",
       hasPlayButton: true
@@ -56,7 +56,7 @@ function MoreOnlineLotteriesContent() {
     {
       name: "UK Lotto",
       image: "/images/sidebar/lotto-logos/uk-nat-lotto.png",
-      jackpot: "£8,600,000",
+      jackpot: "€8,600,000",
       nextDraw: "Nächste Ziehung am Mittwoch!",
       playLink: "/en/play/uk-lotto",
       hasPlayButton: true
@@ -64,7 +64,7 @@ function MoreOnlineLotteriesContent() {
     {
       name: "Canada 6/49",
       image: "/images/sidebar/lotto-logos/canada-lotto.png",
-      jackpot: "$14,000,000",
+      jackpot: "€14,000,000",
       nextDraw: "Nächste Ziehung am Samstag!",
       playLink: "/en/play/canada-649",
       hasPlayButton: true
@@ -95,7 +95,7 @@ function MoreOnlineLotteriesContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
                 <span itemProp="name">Free-Lottery.com Startseite</span>
               </Link>
             </li>
@@ -157,7 +157,7 @@ function MoreOnlineLotteriesContent() {
             </ul>
             <br className="clear" />
             
-            <p>Nachdem Sie bezahlt haben, können Sie einfach auf die Ziehung warten, um zu sehen, ob Sie gewonnen haben. Sie müssen die Gewinnzahlen nicht einmal selbst überprüfen, da Sie sofort benachrichtigt werden, wenn Sie gewonnen haben. Preise bis £1.000 werden automatisch überwiesen. Für größere Gewinne können Sie den Support kontaktieren, der Ihnen beim Anspruch weiterhilft.</p>
+            <p>Nachdem Sie bezahlt haben, können Sie einfach auf die Ziehung warten, um zu sehen, ob Sie gewonnen haben. Sie müssen die Gewinnzahlen nicht einmal selbst überprüfen, da Sie sofort benachrichtigt werden, wenn Sie gewonnen haben. Preise bis €5.000 werden automatisch überwiesen. Für größere Gewinne können Sie den Support kontaktieren, der Ihnen beim Anspruch weiterhilft.</p>
                
             <h3>Was ist ein Syndikat?</h3>
             <p>Ein <a href="https://www.syndicate.co.uk/" title="Lottery Syndicates" target="_blank" rel="noopener noreferrer">Syndikat</a> ist eine Gruppe von Personen, die mehrere Lotterielose kaufen, wobei Gewinne auf alle Mitglieder aufgeteilt werden. Syndikate erhöhen Ihre Gewinnchancen, da Sie Anteile an mehreren Einträgen in der Ziehung besitzen, ohne mehr Geld für zusätzliche Tickets auszugeben.</p>
@@ -192,7 +192,7 @@ function MoreOnlineLotteriesContent() {
               />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79,000,000</div>
+                <div className="jackpot">€79,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -209,7 +209,7 @@ function MoreOnlineLotteriesContent() {
               />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102,000,000</div>
+                <div className="jackpot">€102,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

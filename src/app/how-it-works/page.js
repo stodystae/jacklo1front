@@ -69,7 +69,7 @@ function HowItWorksContent() {
 
             <section id="step-2" className="generic-box">
               <h2>Teilnahme an Ziehungen</h2>
-              <p>Nach der Registrierung wählen Sie einfach sechs Zahlen von 1 bis 75 – oder nutzen Sie die Quick-Pick-Funktion. Ein Ticket wird erstellt und sicher in Ihrem Konto gespeichert. Bei der Anmeldung nehmen Sie automatisch an der nächsten wöchentlichen Ziehung teil; danach müssen Sie die tägliche Ziehung mindestens dreimal pro Woche spielen, um sich erneut zu qualifizieren.</p>
+              <p>Nach der Registrierung wählen Sie einfach sechs Zahlen von 1 bis 300 – oder nutzen Sie die Quick-Pick-Funktion. Ein Ticket wird erstellt und sicher in Ihrem Konto gespeichert. Bei der Anmeldung nehmen Sie automatisch an der nächsten wöchentlichen Ziehung teil; danach müssen Sie die tägliche Ziehung mindestens dreimal pro Woche spielen, um sich erneut zu qualifizieren.</p>
               <p>Die Teilnahme an der wöchentlichen Ziehung endet jeweils am <strong>Montag um 12:00 UTC</strong>. Die Teilnahme an der täglichen Ziehung endet an allen anderen Tagen um <strong>17:30 UTC</strong>.</p>
             </section>
 
@@ -83,7 +83,7 @@ function HowItWorksContent() {
             <section id="step-4" className="generic-box">
               <h2>Gewinne beanspruchen</h2>
               <p>Wenn Sie alle sechs Zahlen richtig haben – herzlichen Glückwunsch, Sie sind ein Gewinner! <a href="/contact">Kontaktieren Sie uns</a> innerhalb von zwei Tagen, um den Gewinnprozess zu starten. Nach der Überprüfung wird Ihr Gewinn per Einschreiben versandt. Free-Lottery.net erhebt keine Provision.</p>
-              <p className="info">Alle sechs Zahlen richtig: <strong>£500</strong> Tagesziehung, <strong>£10.000</strong> Wochenziehung<sup>*</sup>.</p>
+              <p className="info">Alle sechs Zahlen richtig: <strong>€10.000</strong> Tagesziehung, <strong>€100.000</strong> Wochenziehung<sup>*</sup>.</p>
             </section>
 
             <section id="step-5" className="generic-box">

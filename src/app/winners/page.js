@@ -28,7 +28,7 @@ function WinnersContent() {
       image: "/images/competitions/winner-claire.jpg",
       quote: "Es hat meinen Tag verschönert",
       date: "Montag, 10. September",
-      prize: "£50",
+      prize: "€500",
       description: "Claire trat dem Free Lottery Gewinnerclub bei! Hier ist, was sie über den £50 Preis sagte."
     },
     {
@@ -36,7 +36,7 @@ function WinnersContent() {
       image: "/images/competitions/winner-davidm.jpg",
       quote: "Ich gewinne nie etwas!",
       date: "September",
-      prize: "£50",
+      prize: "€500",
       description: "David war der erste glückliche Gewinner im September und erhielt den £50 Extra-Chance-Preis! Als wir ihn kontaktierten, sagte er: 'So überrascht und begeistert! Ich gewinne nie etwas! Ich werde das Geld für einen schönen Tag mit der Familie verwenden. Vielen Dank!'"
     },
     {
@@ -44,16 +44,16 @@ function WinnersContent() {
       image: "/images/competitions/winner-karen.jpg",
       quote: "Was für eine schöne Montagsüberraschung",
       date: "20. August",
-      prize: "£150",
+      prize: "€1500",
       description: "Nach mehreren Wochen ohne Gewinner rollte der Extra-Chance-Preis auf beeindruckende £150! Karen war die glückliche Gewinnerin, sie sagte: 'Ich freue mich sehr, gewonnen zu haben. Was für eine schöne Montagsüberraschung! Ich werde meinen Mann zu einem schönen Essen ausführen.'",
-      highlight: "£150 Gewinnerin"
+      highlight: "£1500 Gewinnerin"
     },
     {
       name: "Matthew Sibley",
       image: "/images/competitions/winner-matthew-s.jpg",
       quote: "Ich fühle mich sehr glücklich",
       date: "Juli",
-      prize: "£50",
+      prize: "€500",
       description: "Matthew war sehr dankbar, der letzte Gewinner im Juli zu sein. Er sagte: 'Als Medizinstudent ist Geld oft knapp, daher kann ein Betrag wie £50 einen großen Unterschied machen. Das Geld wird verwendet, um meinen Eltern für einen kürzlichen Urlaub nach Rom mit meiner Freundin zurückzuzahlen.'"
     }
   ]
@@ -62,21 +62,21 @@ function WinnersContent() {
     {
       name: "Mega Millions",
       image: "/images/sidebar/lotto-logos/mega-millions.png",
-      jackpot: "$109,000,000",
+      jackpot: "€109,000,000",
       nextDraw: "Nächste Ziehung am Dienstag!",
       link: "/en/play/mega-millions"
     },
     {
       name: "EuroMillions",
       image: "/images/sidebar/lotto-logos/euromillions.png",
-      jackpot: "£79,000,000",
+      jackpot: "€79,000,000",
       nextDraw: "Nächste Ziehung am Dienstag!",
       link: "/en/play/euromillions"
     },
     {
       name: "Powerball",
       image: "/images/sidebar/lotto-logos/powerball.png",
-      jackpot: "$102,000,000",
+      jackpot: "€102,000,000",
       nextDraw: "Nächste Ziehung am Samstag!",
       link: "/en/play/powerball"
     }
@@ -90,8 +90,8 @@ function WinnersContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
-                <span itemProp="name">Free-Lottery.com Startseite</span>
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
+                <span itemProp="name">kostenlose-lotterie.de Startseite</span>
               </Link>
             </li>
             <li>Gewinner</li>
@@ -121,7 +121,7 @@ function WinnersContent() {
                   image: "/images/competitions/winner-patrick.jpg",
                   quote: "Ich bin begeistert",
                   date: "Juni",
-                  prize: "£100",
+                  prize: "€1000",
                   description: "Der letzte Preis im Juni war ein aufregender £100 Gewinn! Patrick war der glückliche Gewinner und sagte: 'Ich bin begeistert von dieser unerwarteten Überraschung, danke an das Team von Free Lottery.'"
                 }}
               />
@@ -132,13 +132,13 @@ function WinnersContent() {
                   image: "/images/competitions/winner-amanda.jpg",
                   quote: "Das war eine sehr nette Überraschung",
                   date: "Montag, 11. Juni",
-                  prize: "£50",
-                  description: "Am Montag, 11. Juni, erhielt Amanda den £50 Preis. Sie freute sich sehr über die Nachricht: 'Vielen Dank, das war eine sehr nette Überraschung, als ich heute Abend mein Konto überprüfte.'"
+                  prize: "€500",
+                  description: "Am Montag, 11. Juni, erhielt Amanda den €50 Preis. Sie freute sich sehr über die Nachricht: 'Vielen Dank, das war eine sehr nette Überraschung, als ich heute Abend mein Konto überprüfte.'"
                 }}
               />
 
               <h2>Sommer-Spektakel 2017</h2>
-              <p>Am 20. Juli wurden 40 glückliche Teilnehmer aus 11 Ländern als Gewinner unseres Sommer-Spektakel-Wettbewerbs ausgewählt! Der erste Preis war ein £100 Amazon-Gutschein. Herzlichen Glückwunsch an alle!</p>
+              <p>Am 20. Juli wurden 40 glückliche Teilnehmer aus 11 Ländern als Gewinner unseres Sommer-Spektakel-Wettbewerbs ausgewählt! Der erste Preis war ein €1000 Amazon-Gutschein. Herzlichen Glückwunsch an alle!</p>
               
               <Image 
                 src="/images/competitions/summer-winners.jpg" 

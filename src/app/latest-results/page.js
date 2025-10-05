@@ -23,8 +23,8 @@ function LatestResultsContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
-                <span itemProp="name">Free-Lottery.com Startseite</span>
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
+                <span itemProp="name">kostenlose-lotterie.de Startseite</span>
               </Link>
             </li>
             <li>Neueste Ergebnisse</li>
@@ -62,7 +62,7 @@ function LatestResultsContent() {
                   <br className="clear" />
                   
                   <div className="money">
-                    <h2>Jackpot: <span>£500</span></h2>
+                    <h2>Jackpot: <span>€10.000</span></h2>
                   </div>
                 </div>
               </div>
@@ -75,7 +75,7 @@ function LatestResultsContent() {
                 
                 <div className="result-block">
                   <div className="draw-number">Ziehung Nr. <span>311</span></div>
-                  <div className="draw-date"><span>Montag</span>, 19. Oktober 2020</div>
+                  <div className="draw-date"><span>Montag</span>, 19. Oktober 2025</div>
                   <div className="numbers">
                     <div className="1">13</div>
                     <div className="1">17</div>
@@ -88,7 +88,7 @@ function LatestResultsContent() {
                   <br className="clear" />
                   
                   <div className="money">
-                    <h2>Jackpot: <span>£10,000</span></h2>
+                    <h2>Jackpot: <span>€100,000</span></h2>
                   </div>
                 </div>
               </div>
@@ -105,7 +105,7 @@ function LatestResultsContent() {
                 <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
                 <div className="sidepanel-games">
                   <div className="sub-title">Mega Millions</div>
-                  <div className="jackpot">$109,000,000</div>
+                  <div className="jackpot">€109,000,000</div>
                 </div>
                 <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
                 <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -117,7 +117,7 @@ function LatestResultsContent() {
                 <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
                 <div className="sidepanel-games">
                   <div className="sub-title">EuroMillions</div>
-                  <div className="jackpot">£79,000,000</div>
+                  <div className="jackpot">€79,000,000</div>
                 </div>
                 <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
                 <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -129,7 +129,7 @@ function LatestResultsContent() {
                 <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
                 <div className="sidepanel-games">
                   <div className="sub-title">Powerball</div>
-                  <div className="jackpot">$102,000,000</div>
+                  <div className="jackpot">€102,000,000</div>
                 </div>
                 <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
                 <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

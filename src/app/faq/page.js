@@ -12,7 +12,7 @@ export default function FAQ() {
       <Header 
         title="Kostenloses Lotto FAQs | Fragen und Antworten – So funktioniert’s"
         description="Was ist das Kostenlose Lotto? Wie kann eine Lotterie kostenlos sein? Wie gewinne ich einen Preis? Plus weitere häufig gestellte Fragen."
-        keywords="häufig gestellte fragen (faq), kostenloses lotto, free-lottery.net"
+        keywords="häufig gestellte fragen (faq), kostenloses lotto, kostenlose-lotterie.de"
       />
       <Navbar />
       <FAQContent />
@@ -158,7 +158,7 @@ function FAQContent() {
               style={getAnswerStyle(5)}
               onBackToTop={handleBackToTop}
             >
-              <p>Die täglichen Ziehungen finden jeden Tag um 19:30 UTC statt – loggen Sie sich einfach ein, wählen Sie Ihre Zahlen und nehmen Sie vor der Annahmeschlusszeit um 17:30 UTC teil, um die Chance auf £500 zu haben!</p>
+              <p>Die täglichen Ziehungen finden jeden Tag um 19:30 UTC statt – loggen Sie sich einfach ein, wählen Sie Ihre Zahlen und nehmen Sie vor der Annahmeschlusszeit um 17:30 UTC teil, um die Chance auf €10.000 zu haben!</p>
             </FAQAnswer>
 
             <FAQAnswer 
@@ -168,7 +168,7 @@ function FAQContent() {
               style={getAnswerStyle(6)}
               onBackToTop={handleBackToTop}
             >
-              <p>Die wöchentlichen Ziehungen finden montags um 14:00 UTC statt (Teilnahmeschluss: 12:00 UTC am selben Tag) und bieten einen Preis von £10.000! Nach der Anmeldung können Sie sofort an einer wöchentlichen Ziehung teilnehmen. Danach müssen Sie jedoch mindestens dreimal in einer Woche an einer täglichen Ziehung teilnehmen, um sich zu qualifizieren.</p>
+              <p>Die wöchentlichen Ziehungen finden montags um 14:00 UTC statt (Teilnahmeschluss: 12:00 UTC am selben Tag) und bieten einen Preis von €50.000! Nach der Anmeldung können Sie sofort an einer wöchentlichen Ziehung teilnehmen. Danach müssen Sie jedoch mindestens dreimal in einer Woche an einer täglichen Ziehung teilnehmen, um sich zu qualifizieren.</p>
             </FAQAnswer>
 
             <FAQAnswer 
@@ -178,7 +178,7 @@ function FAQContent() {
               style={getAnswerStyle(7)}
               onBackToTop={handleBackToTop}
             >
-              <p>Extra Chance war stets eine Werbeaktion. Sie lief über 18 Monate und brachte mehr als 60 Gewinner hervor, bevor sie am 10. September 2018 zum letzten Mal stattfand.</p>
+              <p>Extra Chance war stets eine Werbeaktion. Sie lief über 10 Monate und brachte mehr als 1000 Gewinner hervor, bevor sie am 10. Oktober November Dezember 2025 zum letzten Mal stattfand.</p>
               <p>Die Aktion könnte in Zukunft erneut durchgeführt werden. Auf der Seite <Link href="/competitions" title="Wettbewerbe und Aktionen">Wettbewerbe</Link> finden Sie aktuelle Ankündigungen über diese oder andere großartige Aktionen.</p>
             </FAQAnswer>
 
@@ -189,7 +189,7 @@ function FAQContent() {
               style={getAnswerStyle(8)}
               onBackToTop={handleBackToTop}
             >
-              <p>Sowohl bei den täglichen als auch bei den wöchentlichen Ziehungen müssen Sie sechs Zahlen richtig tippen, um den Jackpot von £500 bzw. £10.000 zu gewinnen. Die Wahrscheinlichkeit, sechs Zahlen aus 75 Möglichkeiten zu treffen, beträgt 1:201.359.550 – bessere Chancen als bei mancher kostenpflichtigen Lotterie!</p>
+              <p>Sowohl bei den täglichen als auch bei den wöchentlichen Ziehungen müssen Sie sechs Zahlen richtig tippen, um den Jackpot von €10.000 bzw. €100.000 zu gewinnen. Die Wahrscheinlichkeit, sechs Zahlen aus 75 Möglichkeiten zu treffen, beträgt 1:201.359.550 – bessere Chancen als bei mancher kostenpflichtigen Lotterie!</p>
             </FAQAnswer>
 
             <p style={{ textAlign: 'center' }}>
@@ -204,7 +204,7 @@ function FAQContent() {
               <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109.000.000</div>
+                <div className="jackpot">€109.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -216,7 +216,7 @@ function FAQContent() {
               <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79.000.000</div>
+                <div className="jackpot">€79.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -228,7 +228,7 @@ function FAQContent() {
               <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102.000.000</div>
+                <div className="jackpot">€102.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

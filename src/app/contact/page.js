@@ -94,7 +94,7 @@ function ContactContent() {
               <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109.000.000</div>
+                <div className="jackpot">€109.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -106,7 +106,7 @@ function ContactContent() {
               <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79.000.000</div>
+                <div className="jackpot">€79.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -118,7 +118,7 @@ function ContactContent() {
               <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102.000.000</div>
+                <div className="jackpot">€102.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

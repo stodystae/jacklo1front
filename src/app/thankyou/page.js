@@ -14,7 +14,7 @@ function ThankYouContent() {
   return (
     <>
       <Header 
-        title="Vielen Dank für Ihre Registrierung | Free-Lottery.net"
+        title="Vielen Dank für Ihre Registrierung | kostenlose-lotterie.de"
         description="Vielen Dank für Ihre Registrierung bei Free Lottery. Viel Glück mit Ihren Zahlen!"
         keywords="danke, lotterie registrierung abgeschlossen"
       />

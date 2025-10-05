@@ -9,7 +9,7 @@ export default function TermsAndConditions() {
       <Header 
         title="Free Lottery – Allgemeine Geschäftsbedingungen"
         description="Allgemeine Geschäftsbedingungen für die Teilnahme an Free Lottery online"
-        keywords="free-lottery.net allgemeine Geschäftsbedingungen"
+        keywords="kostenlose-lotterie.de allgemeine Geschäftsbedingungen"
         noindex={true}
       />
       <Navbar />
@@ -28,7 +28,7 @@ function TermsContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
                 <span itemProp="name">Free-Lottery.com Startseite</span>
               </Link>
             </li>
@@ -41,7 +41,7 @@ function TermsContent() {
       <div className="container how-it-works">
         <article>
           <header>
-            <h1>Allgemeine Geschäftsbedingungen von Free-Lottery.net</h1>
+            <h1>Allgemeine Geschäftsbedingungen von kostenlose-lotterie.de</h1>
           </header>
 
           <div className="main">
@@ -54,7 +54,7 @@ function TermsContent() {
                 <li>Mitarbeiter (oder deren Familienangehörige) des Veranstalters, verbundener Unternehmen oder Preisgeber sowie alle verbundenen Gesellschaften sind von der Teilnahme und vom Gewinn ausgeschlossen.</li>
                 
                 <p><strong>Teilnahme</strong></p>
-                <li>Um teilzunehmen, folgen Sie den Anweisungen auf <Link href="/" title="free lottery">free-lottery.net</Link> und geben Sie Ihre Daten ein.</li>
+                <li>Um teilzunehmen, folgen Sie den Anweisungen auf <Link href="/" title="free lottery">kostenlose-lotterie.de</Link> und geben Sie Ihre Daten ein.</li>
                 
                 <p><strong>Ziehungen</strong></p>
                 <li>Wir haben eine tägliche und eine wöchentliche Ziehung.</li>
@@ -156,7 +156,7 @@ function TermsContent() {
               <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109,000,000</div>
+                <div className="jackpot">€109,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -168,7 +168,7 @@ function TermsContent() {
               <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79,000,000</div>
+                <div className="jackpot">€79,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -180,7 +180,7 @@ function TermsContent() {
               <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102,000,000</div>
+                <div className="jackpot">€102,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

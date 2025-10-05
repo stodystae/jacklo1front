@@ -80,12 +80,12 @@ function SafeSenderContent() {
 
               <h3>In Gmail:</h3>
               <ul className="list">
-                <li>Fügen Sie <strong>support@free-lottery.net</strong>, <strong>verification@free-lottery.net</strong> und <strong>play@free-lottery.net</strong> zu Ihren Kontakten hinzu, damit wichtige E-Mails von Free Lottery ankommen!</li>
+                <li>Fügen Sie <strong>support@free-lottery.net</strong>, <strong>verification@kostenlose-lotterie.de</strong> und <strong>play@kostenlose-lotterie.de</strong> zu Ihren Kontakten hinzu, damit wichtige E-Mails von Free Lottery ankommen!</li>
               </ul>
 
               <h3>In Mail auf dem Mac:</h3>
               <ul className="list">
-                <li>Fügen Sie <strong>support@free-lottery.net</strong>, <strong>verification@free-lottery.net</strong> und <strong>play@free-lottery.net</strong> zu Ihren Kontakten hinzu, damit Sie Benachrichtigungen zuverlässig erhalten.</li>
+                <li>Fügen Sie <strong>support@free-lottery.net</strong>, <strong>verification@kostenlose-lotterie.de</strong> und <strong>play@kostenlose-lotterie.de</strong> zu Ihren Kontakten hinzu, damit Sie Benachrichtigungen zuverlässig erhalten.</li>
               </ul>
 
               <h3>In Yahoo! Mail:</h3>
@@ -119,7 +119,7 @@ function SafeSenderContent() {
               <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109,000,000</div>
+                <div className="jackpot">€109,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -131,7 +131,7 @@ function SafeSenderContent() {
               <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79,000,000</div>
+                <div className="jackpot">€79,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -143,7 +143,7 @@ function SafeSenderContent() {
               <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102,000,000</div>
+                <div className="jackpot">€102,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

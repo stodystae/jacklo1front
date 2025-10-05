@@ -75,7 +75,7 @@ function CompetitionsContent() {
               
               <h3>Frühere Aktionen</h3>
               
-              <p>Von Februar 2017 bis September 2018 wurde ein glücklicher Teilnehmer des wöchentlichen Ziehungswettbewerbs nach dem Zufallsprinzip ausgewählt, um einen Preis von mindestens £50 zu gewinnen – unabhängig davon, wie viele Zahlen sie im Hauptspiel richtig hatten! Über 60 glückliche Teilnehmer gewannen in diesem Zeitraum. Lesen Sie unten die Geschäftsbedingungen, um mehr über das Extra-Chance Ziehungsverfahren zu erfahren.</p>
+              <p>Von Februar 2025 bis September 2026 wurde ein glücklicher Teilnehmer des wöchentlichen Ziehungswettbewerbs nach dem Zufallsprinzip ausgewählt, um einen Preis von mindestens £50 zu gewinnen – unabhängig davon, wie viele Zahlen sie im Hauptspiel richtig hatten! Über 60 glückliche Teilnehmer gewannen in diesem Zeitraum. Lesen Sie unten die Geschäftsbedingungen, um mehr über das Extra-Chance Ziehungsverfahren zu erfahren.</p>
               
               <div className="lower">
                 <button 
@@ -113,7 +113,7 @@ function CompetitionsContent() {
               <Image src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" width={200} height={100} layout="responsive" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109,000,000</div>
+                <div className="jackpot">€109,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -125,7 +125,7 @@ function CompetitionsContent() {
               <Image src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" width={200} height={100} layout="responsive" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79,000,000</div>
+                <div className="jackpot">€79,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -137,7 +137,7 @@ function CompetitionsContent() {
               <Image src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" width={200} height={100} layout="responsive" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102,000,000</div>
+                <div className="jackpot">€102,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

@@ -86,7 +86,7 @@ export default function RegisterPage() {
   return (
     <>
       <Header 
-        title="Registrieren | Free-Lottery.net"
+        title="Registrieren | kostenlose-lotterie.de"
         description="Melden Sie sich kostenlos an und nehmen Sie an der Free Lottery teil."
       />
       <Navbar />

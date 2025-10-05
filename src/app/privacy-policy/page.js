@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
       <Header 
         title="Free Lottery - Datenschutzrichtlinie"
         description="Datenschutzrichtlinie für Free Lottery."
-        keywords="free-lottery.net Datenschutzrichtlinie"
+        keywords="kostenlose-lotterie.de Datenschutzrichtlinie"
         noindex={true}
       />
       <Navbar />
@@ -28,8 +28,8 @@ function PrivacyContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
-                <span itemProp="name">Free-Lottery.com Startseite</span>
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
+                <span itemProp="name">kostenlose-lotterie.de Startseite</span>
               </Link>
             </li>
             <li>Datenschutzrichtlinie</li>
@@ -112,7 +112,7 @@ function PrivacyContent() {
               <h2>Änderungen der Richtlinie</h2>
               <p>Wir aktualisieren diese Datenschutzrichtlinie gelegentlich durch eine neue Version auf der Webseite. Bitte prüfen Sie diese Seite regelmäßig.</p>
               <p>Änderungen können auch per E-Mail mitgeteilt werden.</p>
-              <p>Zuletzt aktualisiert am 16. Mai 2018.</p>
+              <p>Zuletzt aktualisiert am 16. Mai 2025.</p>
 
               <h2>Ihre Rechte</h2>
               <p>Sie können uns auffordern, Ihnen alle gespeicherten personenbezogenen Daten mitzuteilen.</p>
@@ -132,7 +132,7 @@ function PrivacyContent() {
               <p>Manchmal behalten wir Daten anonymisiert länger für statistische Auswertungen.</p>
 
               <h2>Kontakt</h2>
-              <p>Bei Fragen schreiben Sie uns an: Free-Lottery.net, The Acorns, Oakwood Park Business Centre, Fountains Road, Bishop Thornton, Harrogate, HG3 3BF oder über unsere <Link href="/contact" title="Kontakt Free Lottery">Kontaktseite</Link>.</p>
+              <p>Bei Fragen schreiben Sie uns an: kostenlose-lotterie.de, The Acorns, Oakwood Park Business Centre, Fountains Road, Bishop Thornton, Harrogate, HG3 3BF oder über unsere <Link href="/contact" title="Kontakt Free Lottery">Kontaktseite</Link>.</p>
 
               <h2>Beschwerden</h2>
               <p>Bitte geben Sie uns zuerst die Möglichkeit, Ihr Anliegen zu lösen. Sie können sich auch jederzeit an die britische Datenschutzbehörde (ICO) wenden (<a href="https://ico.org.uk" target="_blank" rel="nofollow noopener">https://ico.org.uk</a>).</p>
@@ -146,7 +146,7 @@ function PrivacyContent() {
               <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109,000,000</div>
+                <div className="jackpot">€109,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -158,7 +158,7 @@ function PrivacyContent() {
               <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79,000,000</div>
+                <div className="jackpot">€79,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -170,7 +170,7 @@ function PrivacyContent() {
               <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102,000,000</div>
+                <div className="jackpot">€102,000,000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">

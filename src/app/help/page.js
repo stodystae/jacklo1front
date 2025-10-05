@@ -9,7 +9,7 @@ export default function Help() {
       <Header 
         title="Kostenlotterie Hilfe | Hilfe beim Spielen und Gewinnen der Free Lottery"
         description="Hilfe – wie spiele ich? Hilfe – wie erfahre ich, ob ich gewonnen habe? Hilfe – wie fordere ich einen Preis an? Alles, was Sie über die Free Lottery wissen müssen."
-        keywords="Hilfe, kostenlose Lotterie Hilfe, free-lottery.net hilfe"
+        keywords="Hilfe, kostenlose Lotterie Hilfe, kostenlose-lotterie.de hilfe" 
       />
       <Navbar />
       <HelpContent />
@@ -50,12 +50,12 @@ function HelpContent() {
               <h2>Registrierung</h2>
               <p>Die Registrierung ist völlig kostenlos und einfach. Wenn Sie ein Konto erstellen, werden Sie Schritt für Schritt durch den gesamten Vorgang geführt – vom Ausfüllen Ihrer Daten bis zur Bestätigung Ihres Kontos. Besuchen Sie die Seite <Link href="/faq" title="Häufig gestellte Fragen zur Free Lottery">Häufig gestellte Fragen</Link>, um mehr über die Website und ihre Funktionsweise zu erfahren, bevor Sie sich anmelden.</p>
               
-              <p>Wenn Sie Ihre Bestätigungs-E-Mail nicht erhalten haben, müssen Sie möglicherweise Free-Lottery.net zu Ihrer <Link href="/how-to-add-a-safe-sender" title="Free Lottery als sicheren Absender hinzufügen">Liste sicherer Absender</Link> hinzufügen. Dadurch wird verhindert, dass Benachrichtigungen von uns versehentlich in Ihrem Spam-Ordner landen.</p>
+              <p>Wenn Sie Ihre Bestätigungs-E-Mail nicht erhalten haben, müssen Sie möglicherweise kostenlose-lotterie.de zu Ihrer <Link href="/how-to-add-a-safe-sender" title="Free Lottery als sicheren Absender hinzufügen">Liste sicherer Absender</Link> hinzufügen. Dadurch wird verhindert, dass Benachrichtigungen von uns versehentlich in Ihrem Spam-Ordner landen.</p>
             </section>
 
             <section>
               <h2>Die Spiele</h2>
-              <p>An den Ziehungen können alle Personen teilnehmen, die sich auf der Website registriert und ihre Daten bestätigt haben. Es gibt zwei Spiele – die tägliche Ziehung mit einem Gewinn von £500 und die wöchentliche Ziehung mit einem Gewinn von £10.000. Nach der Anmeldung haben Sie die Möglichkeit, an der nächsten verfügbaren wöchentlichen Ziehung teilzunehmen. Danach müssen Sie jedoch die tägliche Ziehung mindestens dreimal pro Kalenderwoche spielen, um sich erneut für die wöchentliche Ziehung zu qualifizieren.</p>
+              <p>An den Ziehungen können alle Personen teilnehmen, die sich auf der Website registriert und ihre Daten bestätigt haben. Es gibt zwei Spiele – die tägliche Ziehung mit einem Gewinn von €10.000 und die wöchentliche Ziehung mit einem Gewinn von €100.000. Nach der Anmeldung haben Sie die Möglichkeit, an der nächsten verfügbaren wöchentlichen Ziehung teilzunehmen. Danach müssen Sie jedoch die tägliche Ziehung mindestens dreimal pro Kalenderwoche spielen, um sich erneut für die wöchentliche Ziehung zu qualifizieren.</p>
               <p>Weitere Informationen zum Spielen beider Spiele finden Sie auf der Seite <Link href="/how-it-works" title="Wie es funktioniert">Wie es funktioniert</Link>.</p>
             </section>
 
@@ -94,7 +94,7 @@ function HelpContent() {
               <img src="/images/sidebar/lotto-logos/mega-millions.png" alt="Aktueller Mega Millions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Mega Millions</div>
-                <div className="jackpot">$109.000.000</div>
+                <div className="jackpot">€109.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/mega-millions" rel="nofollow" target="_blank" className="btn" title="Mega Millions spielen">
@@ -106,7 +106,7 @@ function HelpContent() {
               <img src="/images/sidebar/lotto-logos/euromillions.png" alt="Aktueller EuroMillions Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">EuroMillions</div>
-                <div className="jackpot">£79.000.000</div>
+                <div className="jackpot">€79.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Dienstag!</div>
               <a href="/en/play/euromillions" rel="nofollow" target="_blank" className="btn" title="EuroMillions spielen">
@@ -118,7 +118,7 @@ function HelpContent() {
               <img src="/images/sidebar/lotto-logos/powerball.png" alt="Aktueller Powerball Jackpot" />
               <div className="sidepanel-games">
                 <div className="sub-title">Powerball</div>
-                <div className="jackpot">$102.000.000</div>
+                <div className="jackpot">€102.000.000</div>
               </div>
               <div className="jackpot-date">Nächste Ziehung am Samstag!</div>
               <a href="/en/play/powerball" rel="nofollow" target="_blank" className="btn" title="Powerball spielen">
