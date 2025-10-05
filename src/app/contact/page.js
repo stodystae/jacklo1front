@@ -9,7 +9,7 @@ export default function Contact() {
       <Header 
         title="Kontakt Kostenloses Lotto"
         description="Haben Sie eine Frage? Wählen Sie eine der folgenden Kontaktmöglichkeiten, um sich mit Kostenloses Lotto in Verbindung zu setzen."
-        keywords="kontakt free-lottery.net, kostenloses lotto kontaktformular, kontaktieren Sie uns"
+        keywords="kontakt kostenlose-lotterie.de, kostenloses lotto kontaktformular, kontaktieren Sie uns"
       />
       <Navbar />
       <ContactContent />
@@ -28,12 +28,12 @@ function ContactContent() {
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
               <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
-                <span itemProp="name">Free-Lottery.com Startseite</span>
+                <span itemProp="name">kostenlose-lotterie.de Startseite</span>
               </Link>
             </li>
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="2" />
-              <Link href="/help" title="Free-lottery.net Hilfe und Informationen" itemProp="item">
+              <Link href="/help" title="kostenlose-lotterie.de Hilfe und Informationen" itemProp="item">
                 <span itemProp="name" style={{display: 'inline-block'}}>Hilfe</span>
               </Link>
             </li>
@@ -57,7 +57,7 @@ function ContactContent() {
               
               <div className="first-elem">
                 <div className="title">E-Mail-Adresse</div>
-                <h2>support@free-lottery.ca</h2> 
+                <h2>support@kostenlose-lotterie.de</h2> 
 
                 <div className="title">Soziale Medien</div>
                 <ul className="social">
