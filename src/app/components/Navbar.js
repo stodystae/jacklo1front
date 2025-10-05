@@ -39,7 +39,7 @@ export default function Navbar() {
       <div className="navbar-wrapper mobile-navbar">
         <div className="container">
           <div className="logo">
-            <Link href="/" title="Free-Lottery.ca">
+            <Link href="/" title="kostenlose-lotterie.de">
               <img src="/images/mobile/logo.png" alt="Free Lottery Logo" />
             </Link>
           </div>
@@ -51,7 +51,7 @@ export default function Navbar() {
             
             <ul className={`sideMenu ${mobileMenuOpen ? 'active' : ''}`} id="sideMenu">
               <li>MENÜ</li>
-              <li><Link href="/" title="Free-Lottery.net">Startseite</Link></li>
+              <li><Link href="/" title="kostenlose-lotterie.de">Startseite</Link></li>
               <li>
                 <div className="dropdown">
                   <div className="dropbtn">
@@ -112,7 +112,7 @@ export default function Navbar() {
           <div className="home-jackpot-box">
             <h1>
               Spielen Sie täglich Free Lottery und gewinnen Sie bis zu <br />
-              <span style={{ textTransform: 'uppercase' }}>$100.000!</span>
+              <span style={{ textTransform: 'uppercase' }}>€100.000!</span>
             </h1>
             <Link 
               href={isHomePage ? "#quickPick" : "/"}
@@ -131,14 +131,14 @@ export default function Navbar() {
       <div className="navbar-wrapper desktop-navbar">
         <div className="container">
           <div className="logo">
-            <Link href="/" title="Free-Lottery.net">
+            <Link href="/" title="kostenlose-lotterie.de">
               <img src="/images/template/logo.png" alt="Free Lottery Logo" />
             </Link>
           </div>
 
           <div className="navbar">
             <ul className="nav">
-              <li className="active"><Link href="/" title="Free-Lottery.net">Startseite</Link></li>
+              <li className="active"><Link href="/" title="kostenlose-lotterie.de">Startseite</Link></li>
               <li>
                 <div className="dropdown">
                   <div className="dropbtn">
@@ -167,7 +167,7 @@ export default function Navbar() {
                   </div>
                 </div>
               </li>
-              <li><Link href="/statistics" title="Free Lottery Statistiken">Statistiken</Link></li>
+              <li><Link href="/statistics" title="kostenlose-lotterie.de Statistiken">Statistiken</Link></li>
               <li className="winners">
                 <div className="dropdown">
                   <Link href="/winners" title="Frühere Gewinner" className="dropbtn">Gewinner</Link>
@@ -187,7 +187,7 @@ export default function Navbar() {
           <div className="home-jackpot-box">
             <h1>
               Spielen Sie täglich Free Lottery und gewinnen Sie bis zu <br />
-              <span style={{ textTransform: 'uppercase' }}>£100.000!</span>
+              <span style={{ textTransform: 'uppercase' }}>€100.000!</span>
             </h1>
             <Link 
               href={isHomePage ? "#quickPick" : "/"}

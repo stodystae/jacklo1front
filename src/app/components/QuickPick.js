@@ -150,7 +150,7 @@ export default function QuickPick() {
               <div className="lower">
                 <div className="row-1">
                   <h2>
-                    Spielen Sie heute für Ihre Chance auf 100.000 $! <br />
+                    Spielen Sie heute für Ihre Chance auf 100.000 €! <br />
                     <span style={{ color: '#FC0', fontWeight: 'normal' }}>
                       Wählen Sie sechs Zahlen aus dem Raster unten, um zu spielen
                     </span>
