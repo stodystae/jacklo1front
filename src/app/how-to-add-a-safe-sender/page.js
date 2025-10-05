@@ -27,13 +27,13 @@ function SafeSenderContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
                 <span itemProp="name">Free-Lottery.com Startseite</span>
               </Link>
             </li>
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="2" />
-              <Link href="/help" title="Free-lottery.net Hilfe und Informationen" itemProp="item">
+              <Link href="/help" title="kostenlose-lotterie.de Hilfe und Informationen" itemProp="item">
                 <span itemProp="name" style={{display: 'inline-block'}}>Hilfe</span>
               </Link>
             </li>
@@ -54,12 +54,12 @@ function SafeSenderContent() {
           <div className="generic-box">
             <section>
               <h2>Einfache Anleitung zum Hinzufügen eines sicheren Absenders:</h2>
-              <p>Um zu verhindern, dass Nachrichten im Spam-Ordner landen, ist es ratsam, die E-Mail-Adressen von Free Lottery zu Ihrer Liste sicherer Absender hinzuzufügen. So erhalten Sie immer die neuesten Informationen, die Ihnen helfen könnten, Preise von £500 im Daily Draw bis zu £10.000 im Weekly Draw zu gewinnen.</p>
+              <p>Um zu verhindern, dass Nachrichten im Spam-Ordner landen, ist es ratsam, die E-Mail-Adressen von Free Lottery zu Ihrer Liste sicherer Absender hinzuzufügen. So erhalten Sie immer die neuesten Informationen, die Ihnen helfen könnten, Preise von €10.000 im Daily Draw bis zu €100.000 im Weekly Draw zu gewinnen.</p>
 
               <h3>In Outlook 2010 &amp; 2013:</h3>
               <ul className="list">
                 <li>Klicken Sie unter dem Reiter „Start“ auf „Junk“, dann auf „Junk-E-Mail-Optionen“ und anschließend auf den Reiter „Sichere Absender“.</li>
-                <li>Klicken Sie auf „Hinzufügen“, geben Sie '<strong>Free-Lottery.net</strong>' ein und klicken Sie auf „OK“.</li>
+                <li>Klicken Sie auf „Hinzufügen“, geben Sie '<strong>kostenlose-lotterie.de</strong>' ein und klicken Sie auf „OK“.</li>
                 <li>Klicken Sie auf „Übernehmen“ und „OK“. Fertig! Alle E-Mails von Free Lottery landen jetzt in Ihrem Posteingang.</li>
               </ul>
               
@@ -68,31 +68,31 @@ function SafeSenderContent() {
                 <li>Gehen Sie zu „Extras“ und klicken Sie auf „Optionen“.</li>
                 <li>Unter „Einstellungen“ suchen Sie „E-Mail“ und dann „Junk-E-Mail“.</li>
                 <li>Klicken Sie auf „Sichere Absender“ und dann auf „Hinzufügen“.</li>
-                <li>Geben Sie im Feld die Domain '<strong>Free-Lottery.net</strong>' ein und klicken Sie auf OK.</li>
+                <li>Geben Sie im Feld die Domain '<strong>kostenlose-lotterie.de</strong>' ein und klicken Sie auf OK.</li>
               </ul>
 
               <h3>In Outlook.com &amp; Hotmail:</h3>
               <ul className="list">
                 <li>Klicken Sie auf das Zahnrad neben Ihrem Namen oben rechts.</li>
                 <li>Klicken Sie auf „Optionen“, dann auf „Sichere und blockierte Absender“ und anschließend auf „Sichere Absender“.</li>
-                <li>Geben Sie '<strong>Free-Lottery.net</strong>' ein und klicken Sie auf „Zur Liste hinzufügen“. So stellen Sie sicher, dass alle E-Mails von Free Lottery in Ihrem Posteingang landen.</li>
+                <li>Geben Sie '<strong>kostenlose-lotterie.de</strong>' ein und klicken Sie auf „Zur Liste hinzufügen“. So stellen Sie sicher, dass alle E-Mails von Free Lottery in Ihrem Posteingang landen.</li>
               </ul>
 
               <h3>In Gmail:</h3>
               <ul className="list">
-                <li>Fügen Sie <strong>support@free-lottery.net</strong>, <strong>verification@kostenlose-lotterie.de</strong> und <strong>play@kostenlose-lotterie.de</strong> zu Ihren Kontakten hinzu, damit wichtige E-Mails von Free Lottery ankommen!</li>
+                <li>Fügen Sie <strong>support@kostenlose-lotterie.de</strong>, <strong>verification@kostenlose-lotterie.de</strong> und <strong>play@kostenlose-lotterie.de</strong> zu Ihren Kontakten hinzu, damit wichtige E-Mails von Free Lottery ankommen!</li>
               </ul>
 
               <h3>In Mail auf dem Mac:</h3>
               <ul className="list">
-                <li>Fügen Sie <strong>support@free-lottery.net</strong>, <strong>verification@kostenlose-lotterie.de</strong> und <strong>play@kostenlose-lotterie.de</strong> zu Ihren Kontakten hinzu, damit Sie Benachrichtigungen zuverlässig erhalten.</li>
+                <li>Fügen Sie <strong>support@kostenlose-lotterie.de</strong>, <strong>verification@kostenlose-lotterie.de</strong> und <strong>play@kostenlose-lotterie.de</strong> zu Ihren Kontakten hinzu, damit Sie Benachrichtigungen zuverlässig erhalten.</li>
               </ul>
 
               <h3>In Yahoo! Mail:</h3>
               <ul className="list">
                 <li>Klicken Sie auf das Zahnrad oben rechts und wählen Sie „Einstellungen“.</li>
                 <li>Gehen Sie zu „Filter“ und klicken Sie auf „Neuen Filter hinzufügen“.</li>
-                <li>Nennen Sie den Filter „Free Lottery“ und geben Sie im Feld „Von“ '<strong>free-lottery.net</strong>' ein.</li>
+                <li>Nennen Sie den Filter „Free Lottery“ und geben Sie im Feld „Von“ '<strong>kostenlose-lotterie.de</strong>' ein.</li>
                 <li>Wählen Sie „Posteingang“ als Zielordner und klicken Sie auf „Speichern“.</li>
               </ul>
 

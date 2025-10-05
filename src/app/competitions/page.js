@@ -75,7 +75,7 @@ function CompetitionsContent() {
               
               <h3>Frühere Aktionen</h3>
               
-              <p>Von Februar 2025 bis September 2026 wurde ein glücklicher Teilnehmer des wöchentlichen Ziehungswettbewerbs nach dem Zufallsprinzip ausgewählt, um einen Preis von mindestens £50 zu gewinnen – unabhängig davon, wie viele Zahlen sie im Hauptspiel richtig hatten! Über 60 glückliche Teilnehmer gewannen in diesem Zeitraum. Lesen Sie unten die Geschäftsbedingungen, um mehr über das Extra-Chance Ziehungsverfahren zu erfahren.</p>
+              <p>Von Februar 2025 bis September 2026 wurde ein glücklicher Teilnehmer des wöchentlichen Ziehungswettbewerbs nach dem Zufallsprinzip ausgewählt, um einen Preis von mindestens €50 zu gewinnen – unabhängig davon, wie viele Zahlen sie im Hauptspiel richtig hatten! Über 60 glückliche Teilnehmer gewannen in diesem Zeitraum. Lesen Sie unten die Geschäftsbedingungen, um mehr über das Extra-Chance Ziehungsverfahren zu erfahren.</p>
               
               <div className="lower">
                 <button 

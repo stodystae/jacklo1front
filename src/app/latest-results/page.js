@@ -49,7 +49,7 @@ function LatestResultsContent() {
                 <img alt="Daily Logo" src="/images/template/daily-draw-logo.png" />
                 <div className="result-block">
                   <div className="draw-number">Ziehung Nr. <span>2185</span></div>
-                  <div className="draw-date"><span>Samstag</span>, 24. Oktober 2020</div>
+                  <div className="draw-date"><span>Samstag</span>, 24. Juli 2025</div>
                   <div className="numbers">
                     <div className="1">9</div>
                     <div className="1">30</div>
@@ -75,7 +75,7 @@ function LatestResultsContent() {
                 
                 <div className="result-block">
                   <div className="draw-number">Ziehung Nr. <span>311</span></div>
-                  <div className="draw-date"><span>Montag</span>, 19. Oktober 2025</div>
+                  <div className="draw-date"><span>Montag</span>, 19. Schtator 2025</div>
                   <div className="numbers">
                     <div className="1">13</div>
                     <div className="1">17</div>
