@@ -27,7 +27,7 @@ function ContactContent() {
           <ol className="breadcrumb" itemScope="" itemType="http://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope="" itemType="http://schema.org/ListItem">
               <meta itemProp="position" content="1" />
-              <Link href="/" title="Free-lottery.net Startseite" itemProp="item">
+              <Link href="/" title="kostenlose-lotterie.de Startseite" itemProp="item">
                 <span itemProp="name">kostenlose-lotterie.de Startseite</span>
               </Link>
             </li>
@@ -77,7 +77,7 @@ function ContactContent() {
               <div className="second-elem">
                 <div className="title">Postanschrift</div>
                 <ul>
-                  <li>Free-Lottery.net</li>
+                  <li>kostenlose-lotterie.de</li>
                   <li>The Exchange</li>
                   <li>Station Parade</li>
                   <li>Harrogate</li>
